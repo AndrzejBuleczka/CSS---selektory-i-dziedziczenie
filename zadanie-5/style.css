@@ -1,0 +1,7 @@
+:required {
+  border: red 1px solid;
+}
+
+:disabled {
+  border: orange 1px solid;
+}
