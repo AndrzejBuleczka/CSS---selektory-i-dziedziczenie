@@ -1,0 +1,18 @@
+ol p {
+  font-size: 18px;
+}
+
+ol > li  {
+  border: yellow 1px solid;
+}
+
+ul li + li {
+  background-color: pink; 
+}
+
+
+h2 ~ p {
+  font-weight: bold
+}
+
+
