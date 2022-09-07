@@ -1,9 +1,5 @@
-.inherited {
+p {
   color: green;
-}
-
-.inherited span {
-  color: inherit;
 }
 
 .not-inherited {
