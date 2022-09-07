@@ -1,0 +1,7 @@
+p::first-letter {
+  font-size: 18px;
+}
+
+p::first-line {
+  text-decoration: underline;
+}
