@@ -1,0 +1,14 @@
+/* CSS Tricks */
+a[href*="/css-tricks"] {
+  color: pink;
+}
+
+/* Developer Mozilla */
+a[href^="https://developer.mozilla.org"] {
+  color: orange;
+}
+
+/* css referrence */
+a[href$="/color/"] {
+  color: green;
+}
